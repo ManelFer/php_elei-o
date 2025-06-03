@@ -1,0 +1,8 @@
+Link para o vídeo de apresentação do sistema:
+https://meet.google.com/recording-exemplo-ou-drive
+
+O vídeo mostra:
+- Cadastro de chapas
+- Consulta das chapas
+- Votação por aluno
+- Resultado da eleição
