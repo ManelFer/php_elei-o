@@ -1,4 +1,7 @@
 <?php include 'conexao.php'; ?>
+<head>
+    <link rel="stylesheet" href="style/style.css">
+</head>
 
 <h2>Votação</h2>
 

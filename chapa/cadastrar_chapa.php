@@ -1,5 +1,7 @@
 <?php include 'conexao.php'; ?>
-
+<head>
+    <link rel="stylesheet" href="style/style.css">
+</head>
 <h2>Cadastrar Nova Chapa</h2>
 <form method="POST">
     Código da Chapa: <input type="text" name="codigo"><br>
