@@ -10,6 +10,34 @@ h1, h2 {
     text-align: center;
 }
 
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 30px auto;
+    max-width: 400px;
+    text-align: center;
+}
+
+ul li {
+    margin: 15px 0;
+}
+
+ul li a {
+    display: block;
+    padding: 12px 20px;
+    background-color: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+ul li a:hover {
+    background-color: #2980b9;
+}
+
+
 form {
     background-color: #fff;
     border: 1px solid #ddd;

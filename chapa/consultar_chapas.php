@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Consulta de Chapas</title>
-    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
 
