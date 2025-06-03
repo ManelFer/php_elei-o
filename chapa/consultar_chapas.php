@@ -1,7 +1,12 @@
 <?php include 'conexao.php'; ?>
+<!DOCTYPE html>
+<html lang="pt-br">
 <head>
-    <link rel="stylesheet" href="style/style.css">
+    <meta charset="UTF-8">
+    <title>Consulta de Chapas</title>
+    <link rel="stylesheet" href="css/estilo.css">
 </head>
+<body>
 
 <h2>Consulta de Chapas Cadastradas</h2>
 
@@ -25,3 +30,6 @@
     }
     ?>
 </table>
+
+</body>
+</html>
